@@ -1,0 +1,27 @@
+.Board{
+  align-self: center;
+  margin:40px;
+  width: 60%;
+  background-color: white;
+}
+
+
+.header{
+  color: black;
+  margin-left: 5px;
+}
+
+.btn-primary{
+   margin:5px 20px 10px 5px;
+   height: 25px;
+   background-color: red;
+   color: white;
+   border-radius: 5px;
+ }
+
+ .App{
+   background-color: skyblue;
+   width: 70%;
+   padding: 20px;
+   margin: 25px;
+ }
